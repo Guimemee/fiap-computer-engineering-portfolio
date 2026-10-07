@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Smart Industry & Assistive Systems (Exo Upper Limb)
+Parceiro: Smart Industry, Startups & Assistive Systems
+Turma 5ECS • Ano 2026
+Sprint 02: Sprint 2: Aquisição e Filtragem de Sinais EMG com Filtro de Kalman em FreeRTOS
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Projetar o circuito de instrumentação biomédica para captura de sinais de Eletromiografia de Superfície (sEMG) com amplificador de instrumentação de alto CMRR (> 110 dB). Implementar a filtragem passa-banda analógica de 20 a 450 Hz, retificação de onda completa, cálculo de envelope RMS e predição de intenção de movimento com Filtro de Kalman discreto executando sob o kernel FreeRTOS a 200 Hz.

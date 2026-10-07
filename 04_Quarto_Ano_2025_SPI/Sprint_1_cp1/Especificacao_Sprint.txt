@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: SPI / Metaindústria - Smart Robotics & Gêmeo Digital
+Parceiro: SPI / Metaindústria Smart Robotics
+Turma 4ECS • Ano 2025
+Sprint 01: Sprint 1: Arquitetura Distribuída e Modelagem Paramétrica da Célula Fabril
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Projetar a arquitetura distribuída de microsserviços e a modelagem 3D paramétrica de uma célula robótica inteligente de montagem flexível integrada ao ecossistema SPI / Metaindústria. Especificar contratos de serviço em Protocol Buffers (proto3) e canais gRPC para telemetria de sensores industriais, atuadores pneumáticos e esteiras de transporte com taxa sustentada de 20.000 mensagens por segundo.

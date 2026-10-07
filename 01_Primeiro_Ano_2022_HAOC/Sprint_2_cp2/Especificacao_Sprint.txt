@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Challenge Hospital Alemão Oswaldo Cruz (HAOC)
+Parceiro: Hospital Alemão Oswaldo Cruz
+Turma 1ECB • Ano 2022
+Sprint 02: Sprint 2: Dinâmica e Cinemática de Tração Diferencial do Robô Hospitalar
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Dimensionar o trem de força e o torque requerido nos motores de corrente contínua para um robô hospitalar móvel com tração diferencial de massa total M = 60 kg (estrutura + carga de soros/medicamentos). O robô deve acelerar de 0 a v_max = 1,2 m/s em t = 1,5 s superando rampa hospitalar de inclinação θ = 5° com coeficiente de atrito de rolamento μ_r = 0,02 e raio das rodas R = 0,08 m.

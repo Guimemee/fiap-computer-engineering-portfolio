@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Smart Industry & Assistive Systems (Exo Upper Limb)
+Parceiro: Smart Industry, Startups & Assistive Systems
+Turma 5ECS • Ano 2026
+Sprint 03: Sprint 3: Controle Adaptativo de Impedância e IA Gemini para Fadiga
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Implementar a malha de controle de impedância mecânica virtual (Massa-Mola-Amortecedor) parametrizando rigidez K e amortecimento B variáveis dinamicamente de acordo com a fadiga do usuário. Integrar a Google Gemini API na borda conectada via ESP32/Wi-Fi para monitorar métricas biométricas ao longo da jornada de trabalho e sugerir pausas preventivas e ajustes ergonômicos automáticos.

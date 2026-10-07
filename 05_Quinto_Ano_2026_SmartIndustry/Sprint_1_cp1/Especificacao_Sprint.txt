@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Smart Industry & Assistive Systems (Exo Upper Limb)
+Parceiro: Smart Industry, Startups & Assistive Systems
+Turma 5ECS • Ano 2026
+Sprint 01: Sprint 1: Modelagem Biomecânica Muscular do Membro Superior e Redutores
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Modelar as forças dinâmicas articulares e momentos musculares no membro superior humano durante tarefas repetitivas de elevação e sustentação de ferramentas pesadas na indústria automotiva. Dimensionar a estrutura cinemática em fibra de carbono e os redutores de velocidade de engrenagem harmônica (Harmonic Drive) para entrega de torque assistivo de até 22 N·m com peso estrutural inferior a 2,2 kg acoplado ao corpo.

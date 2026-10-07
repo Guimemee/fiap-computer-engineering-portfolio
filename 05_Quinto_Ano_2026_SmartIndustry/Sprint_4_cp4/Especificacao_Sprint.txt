@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Smart Industry & Assistive Systems (Exo Upper Limb)
+Parceiro: Smart Industry, Startups & Assistive Systems
+Turma 5ECS • Ano 2026
+Sprint 04: Sprint 4: Estruturação da Startup Deep Tech, Valuation DCF e Pitch Deck
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Consolidar a tese de investimento da startup deep tech responsável pelo produto Exo Upper Limb para apresentação em banca de Venture Capital e parceiros industriais. Estruturar o modelo de negócio Hardware-as-a-Service (HaaS com mensalidade de R$ 1.850,00 por exoesqueleto incluindo manutenção e telemetria preditiva), projetar o cap table, valuation pelo Fluxo de Caixa Descontado (R$ 33,2 milhões) e slides finais de pitch deck.

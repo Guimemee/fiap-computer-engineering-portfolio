@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: SPI / Metaindústria - Smart Robotics & Gêmeo Digital
+Parceiro: SPI / Metaindústria Smart Robotics
+Turma 4ECS • Ano 2025
+Sprint 02: Sprint 2: Integração de Redes Industriais com OPC UA e Sincronismo Determinístico
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Implementar a camada de interoperabilidade de chão de fábrica conectando os Controladores Lógicos Programáveis (CLPs Siemens S7-1500) e controladores de robô KUKA/ABB através do padrão aberto OPC UA. Configurar o espaço de endereçamento de nós com autenticação por certificados digitais X.509 e avaliar o tempo de ciclo determinístico de comunicação (Jitter < 2 ms).

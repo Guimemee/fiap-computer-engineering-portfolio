@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: SPI / Metaindústria - Smart Robotics & Gêmeo Digital
+Parceiro: SPI / Metaindústria Smart Robotics
+Turma 4ECS • Ano 2025
+Sprint 04: Sprint 4: Cibersegurança Industrial IEC 62443, Orquestração e Dashboard OEE
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Estruturar o modelo de segurança cibernética em zonas e conduítes conforme a norma ISA/IEC 62443 Security Level 3 (SL-3) protegendo a célula robótica contra acessos não autorizados e ataques de ransomware. Implementar a orquestração de containers de inferência no Kubernetes Edge e disponibilizar painel de controle executivo em tempo real com métricas OEE (Overall Equipment Effectiveness).

@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Challenge Hospital Alemão Oswaldo Cruz (HAOC)
+Parceiro: Hospital Alemão Oswaldo Cruz
+Turma 1ECB • Ano 2022
+Sprint 01: Sprint 1: Modelagem Matemática de Custos Hospitalares e Análise de Break-Even
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Dimensionar a viabilidade econômico-financeira para implantação de uma frota de 4 robôs autônomos de transporte de medicamentos no Hospital Alemão Oswaldo Cruz. O investimento inicial de hardware e sensores é CAPEX = R$ 180.000,00 e custo operacional de energia/manutenção OPEX = R$ 2.400,00/mês. A operação manual atual demanda 6 maqueiros/mensageiros com custo mensal de R$ 4.200,00 cada. Determinar o Ponto de Equilíbrio (Break-Even Point em meses) e o VPL em 3 anos a uma TMA de 10% a.a.

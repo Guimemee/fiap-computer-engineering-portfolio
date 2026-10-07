@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: Challenge Hospital Alemão Oswaldo Cruz (HAOC)
+Parceiro: Hospital Alemão Oswaldo Cruz
+Turma 1ECB • Ano 2022
+Sprint 04: Sprint 4: Arquitetura de Software, Roteamento em Grafos e Integração Hospitalar
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Implementar o algoritmo de menor caminho (Dijkstra com Fila de Prioridade) sobre o grafo topológico da planta do Hospital Alemão Oswaldo Cruz contendo 42 nós (enfermarias, UTI, farmácia central, elevadores e postos de enfermagem). Avaliar a latência de cálculo de rota, a segurança de tráfego em corredores compartilhados e a integração com o banco de dados do prontuário eletrônico via API REST.

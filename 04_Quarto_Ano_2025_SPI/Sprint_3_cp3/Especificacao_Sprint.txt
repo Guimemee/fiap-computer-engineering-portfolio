@@ -1,0 +1,8 @@
+FIAP • Engenharia da Computação
+Projeto Cooperativo: SPI / Metaindústria - Smart Robotics & Gêmeo Digital
+Parceiro: SPI / Metaindústria Smart Robotics
+Turma 4ECS • Ano 2025
+Sprint 03: Sprint 3: Co-Simulação Dinâmica e Gêmeo Digital com IA de Visão
+
+ENUNCIADO E ESPECIFICAÇÃO TÉCNICA:
+Construir a simulação dinâmica de alta fidelidade e comissionamento virtual (Virtual Commissioning) do Gêmeo Digital em ambiente fotorrealístico 3D acoplado ao controlador em malha fechada (Software-in-the-Loop - SIL). Integrar modelo de visão computacional na borda para inspeção automática de peças montadas detectando falhas geométricas com tolerância inferior a 0,5 mm.
