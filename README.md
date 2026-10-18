@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Engenharia de Computação & Corporativo — FIAP (2019 - 2026)
+# 🚀 Portfólio de Engenharia de Computação & Corporativo — FIAP (2022 - 2026)
 ### Autor: Guilherme Macário ([@Guimemee](https://github.com/Guimemee)) | RM: 84057
 
 Repositório master consolidado com todos os projetos de graduação, desafios de inovação aberta corporativa (**Corporate Challenges**), **Global Solutions (GS)**, simulações científicas e ecossistema profissional de automações industriais da FIAP.
