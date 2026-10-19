@@ -5,9 +5,18 @@ Repositório master consolidado com todos os projetos de graduação, desafios d
 
 ---
 
+## 🔒 Governança de Acesso: Exercícios vs. Provas e Avaliações
+
+Para garantir a integridade pedagógica e a conformidade institucional:
+* **Exercícios de Fixação & Laboratórios de Bancada:** São mantidos sob governança de acesso restrito (**🔒 Privados**). Os cadernos e códigos de exercícios não são expostos publicamente, **porém são integralmente computados e auditados na volumetria global de 242 avaliações e entregáveis** da graduação.
+* **Provas Oficiais, Checkpoints & NACs:** São **100% públicos** e catalogados com resoluções algébricas passo a passo (padrão Symbolab), cadernos interativos Jupyter (`SymPy`, `NumPy`, `Matplotlib`) e relatórios técnicos.
+* **Corporate Challenges & Global Solutions:** Totalmente públicos, documentados com portais live via GitHub Pages.
+
+---
+
 ## 🏛️ Desafios Corporativos de Inovação (Corporate Challenges — Sprints & Entregas)
 
-Cada repositório abaixo contém os **enunciados oficiais na íntegra**, os relatórios técnicos formatados, modelos 3D CAD, esquemáticos e códigos-fonte Java, Python e Web desenvolvidos em cada Sprint:
+Cada repositório abaixo contém os **enunciados oficiais na íntegra**, relatórios técnicos formatados, modelos 3D CAD, esquemáticos e códigos-fonte desenvolvidos ao longo dos 4 anos de Challenges:
 
 | Ano | Turma | Empresa Parceira / Desafio | Entregáveis & Soluções Homologadas | Repositório Oficial |
 | :---: | :---: | :--- | :--- | :---: |
@@ -15,22 +24,24 @@ Cada repositório abaixo contém os **enunciados oficiais na íntegra**, os rela
 | **2023** | `2ECB` | **Natura Innovation Challenge** | • Código Java Clean Code (`EmbalagemNatura.java`)<br>• Motor de Filas FIFO (`br.com.fiap.natura.filas`)<br>• Modelagem Relacional (Database Design Natura)<br>• Circuitos Eletrônicos & Frontend Web | [fiap-challenge-2023-natura](https://github.com/Guimemee/fiap-challenge-2023-natura) |
 | **2024** | `3ECR` | **Sanofi EC Pharma Challenge** | • Pacote Completo POCOTECH (ES, DSL, Redes, SO, ME)<br>• Arquitetura de Software & Requisitos Farmacêuticos<br>• Topologias Hiperconvergentes & RTOS Industrial<br>• Modelos Preditivos de IA | [fiap-challenge-2024-sanofi](https://github.com/Guimemee/fiap-challenge-2024-sanofi) |
 | **2025** | `4ECS` | **SPI / Metaindústria** | • Especificação Técnica `SmartRecycle`<br>• Células Robóticas & Digital Twin<br>• Segurança Cibernética Industrial (OT/IT)<br>• Autômatos e Computabilidade | [fiap-challenge-2025-spi-metaindustria](https://github.com/Guimemee/fiap-challenge-2025-spi-metaindustria) |
-| **2026** | `5ECS` | **Smart Industry & Assistive Systems** | • Proposta Oficial `Exo Upper Limb`<br>• Formalização Técnica do Exoesqueleto Motorizado<br>• Controle Biomecânico em Tempo Real & EMG/IMU<br>• Firmware & IoT Edge AI (ESP32) | [fiap-challenge-2026-smart-industry](https://github.com/Guimemee/fiap-challenge-2026-smart-industry) |
 
 ---
 
 ## 🌐 Global Solutions (GS) — Vitrine de Soluções Interdisciplinares
 
-As **Global Solutions** representam os projetos interdisciplinares semestrais com desafios propostos por grandes indústrias e entidades globais:
+As **Global Solutions** representam os projetos semestrais interdisciplinares propostos em parcerias globais (2 por ano de 2022 a 2025 e 1 no último ano letivo de 2026):
 
-| Ano / Semestre | Tema & Indústria | Solução de Engenharia Desenvolvida | Artefatos e Códigos no GitHub |
+| Ano / Semestre | Tema & Inovação | Solução de Engenharia Desenvolvida | Artefatos e Códigos no GitHub |
 | :---: | :--- | :--- | :--- |
-| **2022.1** | **Mobilidade Elétrica & Veículo Xbus** | Dimensionamento de powertrain e modelagem mecânica de utilitário modular elétrico. | • `Global_Solution_CAD_Veiculo_Eletrico.pptx`<br>• Desenho Técnico Normatizado CAD (`.png`, `.pdf`)<br>• Resolução de Modelos Diferenciais de Autonomia |
-| **2023.1** | **Fome Zero & Agricultura Regenerativa** | Telemetria contínua e processamento de sensores agrícolas para combate a pragas e conservação de solo. | • `AutomaticSoilAnalysis.java` (Java - 20 sensores de solo)<br>• Análise Exergética Termodinâmica (Slides técnicos)<br>• Suplementação Luminosa LED Grow (Eletrônica) |
-| **2023.2** | **Saúde Preventiva & Desafio Hapvida** | Plataforma `TechCare4All` de telemedicina e monitoramento vestível (*wearables*). | • Caderno e Apresentação Executiva Hapvida |
-| **2024.1** | **Preservação Oceânica (Microplásticos)** | Previsão e mapeamento da densidade de microplásticos nos oceanos com redes neurais profundas. | • Notebook Jupyter Colab (3.100+ linhas, EDA e RNA)<br>• Dataset Oceânico Global `AdventureScientists.csv`<br>• RTOS para 6 Radares Veiculares & Cisco Packet Tracer |
-| **2025** | **Sinergia Homem-Máquina na Indústria 5.0** | Robótica colaborativa, linguagens formais e governança de segurança cibernética fabril. | • Caderno Multidisciplinar `Human-Machine Synergy`<br>• Especificações Técnicas de Autômatos e Cibersegurança |
-| **2026** | **Sistemas Assistivos & Startups** | Biomecânica assistiva aplicada e integração com o ecossistema hospitalar e fabril. | • Arquitetura de Sistemas Embarcados & IoT Telecom |
+| **2022.1** | **Mobilidade Elétrica (Veículo Xbus)** | Dimensionamento de powertrain e modelagem mecânica de utilitário modular elétrico. | • `Global_Solution_CAD_Veiculo_Eletrico.pptx`<br>• Desenho Técnico Normatizado CAD (`.png`, `.pdf`)<br>• Resolução de Modelos Diferenciais de Autonomia |
+| **2022.2** | **Smart Mobility (Carsharing IoT)** | Sistema de sensoriamento IoT automotivo, rastreamento GPS e gestão de consumo de baterias em frotas. | • Esquemáticos de Circuitos Lógicos<br>• Firmware C++ / ESP32 e Telemetria GSM<br>• Modelagem CAD da Dinâmica Veicular |
+| **2023.1** | **Fome Zero & Agricultura (Tech for Good)** | Telemetria contínua e processamento de sensores agrícolas para combate a pragas e conservação de solo. | • `AutomaticSoilAnalysis.java` (Java - 20 sensores de solo)<br>• Análise Exergética Termodinâmica (Slides técnicos)<br>• Suplementação Luminosa LED Grow (Eletrônica) |
+| **2023.2** | **Saúde Preventiva & E-Textile (TechCare 4 All)** | Camiseta inteligente (*smartshirt*) para monitoramento de ECG, temperatura corporal e telemedicina móvel. | • Caderno e Apresentação Executiva Hapvida<br>• Algoritmo de Triagem e Telemetria Bluetooth<br>• Modelagem de Banco de Dados Médico |
+| **2024.1** | **Preservação Oceânica (Blue Future)** | Previsão e mapeamento da densidade de microplásticos nos oceanos com redes neurais profundas e USV. | • Notebook Jupyter Colab (3.100+ linhas, EDA e RNA)<br>• Dataset Oceânico Global `AdventureScientists.csv`<br>• RTOS para Radares Veiculares & Cisco Packet Tracer |
+| **2024.2** | **Transição Energética (Green Energy)** | Infraestrutura para eletromobilidade, balanceamento inteligente de rede elétrica e estações Smart Charging. | • Algoritmos de Otimização de Carga Elétrica<br>• Telemetria em Nuvem e Dashboards Analíticos<br>• Modelagem Matemática de Consumo e Demanda |
+| **2025.1** | **Digital Twin Planetário (ESA Digital Twin Earth)** | Gêmeos digitais orientados a microsserviços distribuídos e monitoramento climático de alta precisão. | • Arquitetura de Nuvem Multi-Região<br>• Processamento de Fluxos Geoespaciais em Larga Escala<br>• Simulação e Modelagem de Séries Temporais |
+| **2025.2** | **Sinergia Homem-Máquina na Indústria 5.0** | Robótica colaborativa (Cobots), linguagens formais e governança de segurança cibernética fabril (IEC 62443). | • Caderno Multidisciplinar `Human-Machine Synergy`<br>• Especificações Técnicas de Autômatos e Cibersegurança<br>• Barramento Determinístico Industrial OPC UA |
+| **2026.1** | **Operações Espaciais Críticas (Deep Space Network)** | Sistemas embarcados com tolerância a falhas, automação de nós de comunicação de espaço profundo e RTOS. | • Arquitetura FreeRTOS Space Operations<br>• Protocolos de Telemetria Resiliente para Satélites<br>• Automação Autônoma de Antenas e Roteamento Crítico |
 
 ---
 
